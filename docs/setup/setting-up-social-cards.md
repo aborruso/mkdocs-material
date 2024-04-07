@@ -47,6 +47,8 @@ plugins:
   - social
 ```
 
+To make this plugin work, be sure to add these modules to your installation: `pillow` and `cairosvg`.
+
 For a list of all settings, please consult the [plugin documentation].
 
   [plugin documentation]: ../plugins/social.md
